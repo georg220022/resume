@@ -20,10 +20,10 @@ print(BASE_DIR, 11111111111)
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '1*#8de9w+@3x@#l1r_+1+uu&wl^b(u_sd-knd$orscp&o=7i3d'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
