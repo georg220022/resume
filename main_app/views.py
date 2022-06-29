@@ -8,8 +8,8 @@ from telegram import Bot
 
 class SenderMessages:
 
-    TELEGRAM_TOKEN = '5320918569:AAHjUUYGCpY7P6cZ8iDvtKJu7b8_lC0OJn8'
-    CHAT_ID = '1053634002'
+    TELEGRAM_TOKEN = ''
+    CHAT_ID = ''
     bot = Bot(token=TELEGRAM_TOKEN)
 
     def sended_message(message):
